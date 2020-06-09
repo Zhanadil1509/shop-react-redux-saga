@@ -1,3 +1,3 @@
 ## shop-react-redux-saga
 
-#### This branch client
+#### This branch admin
